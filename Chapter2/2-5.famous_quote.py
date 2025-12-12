@@ -1,0 +1,1 @@
+print('Albert Einstein once said, "Everyone is a genious but if you judge a fish for its ability to climb a tree,\n it will live its whole thinking it is stupid"')
